@@ -1,0 +1,3 @@
+ z-index tiene que tener una posicion diferente a la static (osea a la q esta por default) para que z-index funcione
+
+ 
