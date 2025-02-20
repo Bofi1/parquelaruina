@@ -1,13 +1,15 @@
 @media (max-width: 1200px) {
 
-    /* .video-web{
+    .video-web{
         display: none;
         visibility: hidden;
     }
 
     .video-mobile{
         display: flex;
-    } */
+        position: relative;
+        top: -100px;
+    }
 
     .row{
         flex-direction: column;
