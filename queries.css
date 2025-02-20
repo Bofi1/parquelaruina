@@ -1,0 +1,32 @@
+@media (max-width: 1200px) {
+
+    /* .video-web{
+        display: none;
+        visibility: hidden;
+    }
+
+    .video-mobile{
+        display: flex;
+    } */
+
+    .row{
+        flex-direction: column;
+        padding: 0;
+    }
+
+    .row div{
+        margin: 0;
+        width: 80%;
+    }
+
+    .row div:nth-child(1){
+        margin: 40px 0;
+        height: 300px;
+    }
+
+    .row div:nth-child(2){
+        margin: 40px 0;
+        height: 300px;
+    }
+
+  }
