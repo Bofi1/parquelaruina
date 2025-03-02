@@ -18,24 +18,23 @@
         padding: 0;
     }
 
-    .row div{
-        margin: 0;
-        /* width: 80%; */
-    }
 
-    .row div:nth-child(1){
+    .contact-1{
         width: 80%;
         height: 500px;
-        margin-bottom: 200px;
+        margin-right: 0px !important;
+        margin-bottom: 70px;
     }
 
-    .row div:nth-child(2){
+    .contact-2{
         width: 80%;
         height: 500px;
+        margin-left: 0px !important;
+        margin-top: 70px;
     }
 
     .maps{
-        height: 200px !important;
+        height: 800px !important;
     }
 
   }
