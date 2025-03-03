@@ -1,5 +1,5 @@
 
-.Exo2{
+.Exo2, .priv{
     font-family: "Exo 2";
     font-weight: 700;
     
@@ -64,6 +64,11 @@
     .Exo2{
         justify-content: center !important;
         height: 500px !important;
+    }
+
+    .content-maps{
+        padding-top: 30px !important;
+        padding-bottom: 30px !important;
     }
 
   }
