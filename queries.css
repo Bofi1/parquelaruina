@@ -44,6 +44,10 @@
         height: 800px !important;
     }
 
+    .Exo2{
+        justify-content: center !important;
+    }
+
   }
 
   @media (max-width: 1200px) {
