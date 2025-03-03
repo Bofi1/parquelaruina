@@ -1,7 +1,9 @@
 
-
-
-
+.Exo2{
+    font-family: "Exo 2";
+    font-weight: 700;
+    
+}
 
 @media (max-width: 1200px) {
 
@@ -23,6 +25,7 @@
         width: 80%;
         height: 500px;
         margin-right: 0px !important;
+        margin-top: 100px;
         margin-bottom: 70px;
     }
 
@@ -30,6 +33,7 @@
         width: 80%;
         height: 500px;
         margin-left: 0px !important;
+        margin-bottom: 100px;
         margin-top: 70px;
     }
 
@@ -37,4 +41,18 @@
         height: 800px !important;
     }
 
+  }
+
+  @media (max-width: 1200px) {
+
+    .Exo2 p{
+        font-size: 20px;
+    }
+
+  }
+
+  @media (max-width: 1000px) {
+    .maps{
+        height: 300px !important;
+    }
   }
