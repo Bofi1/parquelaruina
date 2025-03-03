@@ -44,9 +44,7 @@
         height: 800px !important;
     }
 
-    .Exo2{
-        justify-content: center !important;
-    }
+  
 
   }
 
@@ -62,4 +60,10 @@
     .maps{
         height: 300px !important;
     }
+
+    .Exo2{
+        justify-content: center !important;
+        height: 500px !important;
+    }
+
   }
