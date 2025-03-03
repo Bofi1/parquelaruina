@@ -20,12 +20,15 @@
         padding: 0;
     }
 
+    .contactanos{
+        padding: 0 !important;
+    }
 
     .contact-1{
         width: 80% !important;
         height: 500px;
         margin-right: 0px !important;
-        margin-top: 40px !important;
+        margin-top: 50px !important;
         margin-bottom: 70px;
     }
 
@@ -33,7 +36,7 @@
         width: 80% !important;
         height: 500px;
         margin-left: 0px !important;
-        margin-bottom: 40px !important;
+        margin-bottom: 50px !important;
         margin-top: 70px;
     }
 
